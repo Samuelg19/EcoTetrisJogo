@@ -1,0 +1,16 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Builds exportadas localmente
+*.apk
+*.aab
+
+# Pastas de IDE/editor
+.vscode/
+.idea/
+

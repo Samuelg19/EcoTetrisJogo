@@ -78,23 +78,18 @@ Assim, manter uma sequencia de acertos e a melhor forma de conseguir uma pontuac
 
 ## Screenshots
 
-As imagens do jogo podem ser adicionadas na pasta `docs/screenshots`.
-
-Sugestao de imagens para colocar no repositorio:
-
-- `menu.png`: tela inicial do jogo.
-- `modo-normal.png`: partida no modo Normal.
-- `modo-dificil.png`: partida no modo Dificil.
-- `game-over.png`: tela de Game Over mostrando pontuacao e maior combo.
-- `tutorial.png`: tela de tutorial.
-
-Depois de salvar as imagens, voce pode exibi-las aqui assim:
-
-```md
-![Tela inicial](docs/screenshots/menu.png)
-![Modo Normal](docs/screenshots/modo-normal.png)
-![Game Over](docs/screenshots/game-over.png)
-```
+<table>
+  <tr>
+    <td align="center"><strong>Menu</strong><br><img src="docs/screenshots/menu.png" width="220" alt="Tela inicial do EcoTetris"></td>
+    <td align="center"><strong>Tutorial</strong><br><img src="docs/screenshots/tutorial.png" width="220" alt="Tela de tutorial"></td>
+    <td align="center"><strong>Modos de jogo</strong><br><img src="docs/screenshots/modos-de-jogo.png" width="220" alt="Tela de escolha de modo"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Modo Normal</strong><br><img src="docs/screenshots/modo-normal.png" width="220" alt="Partida no modo Normal"></td>
+    <td align="center"><strong>Game Over</strong><br><img src="docs/screenshots/game-over.png" width="220" alt="Tela de Game Over"></td>
+    <td align="center"><strong>Modo Dificil</strong><br><img src="docs/screenshots/modo-dificil.png" width="220" alt="Partida no modo Dificil"></td>
+  </tr>
+</table>
 
 ## Arquivo do projeto
 
